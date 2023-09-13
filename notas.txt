@@ -1,0 +1,20 @@
+Componentes
+Conjuntos de elementos que componene un proyecto
+Proyecto dividido en diferentes elementos
+
+
+Mandamientos de los Componentes
+Parte 1
+NO nombrar un componente con iniciales minúsculas
+NO nombrar componentes con espacios
+NO nombrar componentes con numeros
+NO nombrar componentes con carcteres especiales
+El main NO es un componente, no se toca, no se mira
+NO renombrar un componente previamente creado (eliminar y crear uno nuevo)
+
+Parte 2
+El nombre de la funcion debe ser igual al nombre del componente
+Una funcion SIEMPRE tiene un retorno dentro de si
+El retorno SIEMPRE retorna código HTML
+El retorno SOLO retorna una única cosa
+SIEMPRE debe existir una exportación de la funcion
